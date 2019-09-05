@@ -1,10 +1,38 @@
 {
   "users": [
-    { "id": "23", "firstName": "clinton", "age": 26, "companyId": "1" },
-    { "id": "24", "firstName": "manje", "age": 27, "companyId": "2" }
+    {
+      "id": "23",
+      "firstName": "clinton",
+      "age": 26,
+      "companyId": "1"
+    },
+    {
+      "id": "24",
+      "firstName": "manje",
+      "age": 27,
+      "companyId": "2"
+    },
+    {
+      "firstName": "gitahi",
+      "age": 26,
+      "id": "7MxboSC"
+    },
+    {
+      "firstName": "gitahi",
+      "age": 26,
+      "id": "ia1DHBj"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "andela", "description": "developers" },
-    { "id": "2", "name": "google", "description": "search" }
+    {
+      "id": "1",
+      "name": "andela",
+      "description": "developers"
+    },
+    {
+      "id": "2",
+      "name": "google",
+      "description": "search"
+    }
   ]
 }
